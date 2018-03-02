@@ -1,19 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Testing Stuff</title>
-	<link rel="stylesheet" type="text/css" href="alignment.css">
+    <title>Testing Stuff</title>
+    <link rel="stylesheet" type="text/css" href="alignment.css">
 </head>
 <body>
 
 <div id="container" style="position:relative; width:400px;">
-	<div id="first" style="width:auto; height:200px" >
-		
-	</div>
-	<div id="top-second" style="height:40px; position:absolute; width:auto; right:0px;">
-		<div id="second" style="position:relative; display:inline-block; top:10px;">Stuff</div>
-		<div id="third" style="display:inline-block;">Things</div>
-	</div>
+    <span>STUFF</span><br/>
+    <div id="first" style="width:auto; height:200px" >
+    </div>
+    <br/>
+    <div id="bottom-container" style="position:absolute; text-align:center; border: solid black 1px; height:60px; width:100%;">
+        <span style="">
+            <div>NET: $1K</div>
+        </span>
+        <span style="display:inline-block; float:right;">
+            <span style="position: relative; top:-18px; right:80px;">
+                <Button id="cancel" style="position:absolute; border:dotted green 1px; left:10px">CANCEL</Button>
+                <Button id="create" style="position:absolute; border:dotted red 1px; right:10px;">CREATE</Button>
+            </span>
+        </span>
+    </div>
 </div>
 
 
