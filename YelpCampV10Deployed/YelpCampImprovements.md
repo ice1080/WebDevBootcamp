@@ -43,11 +43,11 @@ Pagination in campgrounds index
 
 - UI Improvements (login and signup, nav-bar, registration flash message) - http://slides.com/nax3t/yelpcamp-refactor-ui (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
-- Pricing feature - http://slides.com/nax3t/yelpcamp-refactor-pricing (currently unavailable, working to get account back online right now! sorry for the inconvenience)
+- Pricing feature - http://slides.com/nax3t/yelpcamp-refactor-pricing (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
 UPDATED!!! - Google Maps location - https://www.youtube.com/watch?v=B4OuCjQLJ9k
 
-- Time since created w/ Moment JS - http://slides.com/nax3t/yelpcamp-refactor-moment (currently unavailable, working to get account back online right now! sorry for the inconvenience)
+- Time since created w/ Moment JS - http://slides.com/nax3t/yelpcamp-refactor-moment (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
 - Admin role (user roles) - https://www.youtube.com/watch?v=somc45pnM2k
 
