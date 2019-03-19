@@ -45,25 +45,25 @@ Pagination in campgrounds index
 
 - Pricing feature - http://slides.com/nax3t/yelpcamp-refactor-pricing (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
-UPDATED!!! - Google Maps location - https://www.youtube.com/watch?v=B4OuCjQLJ9k
+UPDATED!!! - Google Maps location - https://www.youtube.com/watch?v=B4OuCjQLJ9k (36m)
 
 - Time since created w/ Moment JS - http://slides.com/nax3t/yelpcamp-refactor-moment (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
-- Admin role (user roles) - https://www.youtube.com/watch?v=somc45pnM2k
+- Admin role (user roles) - https://www.youtube.com/watch?v=somc45pnM2k (30m)
 
-- User profile - https://youtu.be/6ar77jZ_ajc
+- User profile - https://youtu.be/6ar77jZ_ajc (18m)
 
-- Password reset - https://youtu.be/UV9FvlTySGg
+- Password reset - https://youtu.be/UV9FvlTySGg (23m)
 
-- Fuzzy Search - https://youtu.be/9_lKMTXVk64
+- Fuzzy Search - https://youtu.be/9_lKMTXVk64 (25m)
 
-- Image upload - https://youtu.be/RHd4rP9U9SA
+- Image upload - https://youtu.be/RHd4rP9U9SA (21m)
 
-- Migrating to Bootstrap 4 - https://www.youtube.com/watch?v=NHHh0sj1uKY
+- Migrating to Bootstrap 4 - https://www.youtube.com/watch?v=NHHh0sj1uKY (1h 12m)
 
-- Refactor callbacks in seeds.js to use Async/Await - https://youtu.be/D_q-sQCdZXw
+- Refactor callbacks in seeds.js to use Async/Await - https://youtu.be/D_q-sQCdZXw (15m)
 
-NEW!!! - In-app Notifications - https://www.youtube.com/watch?v=Tt9orKnUiEU
+NEW!!! - In-app Notifications - https://www.youtube.com/watch?v=Tt9orKnUiEU (16m)
 
 
 
