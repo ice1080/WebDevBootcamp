@@ -5,7 +5,7 @@ Last updated 09/29/18
 Hi Everyone!
 I've been working on some additional features for the YelpCamp project. You can view the source code here (https://github.com/nax3t/yelp-camp-refactored). So far I've included the following features: 
 
-CSS3 background animation on landing page 
+CSS3 background animation on landing page
 
 Fuzzy Search 
 
@@ -41,7 +41,7 @@ Comments on the campground show page
 
 Pagination in campgrounds index
 
-- UI Improvements (login and signup, nav-bar, registration flash message) - http://slides.com/nax3t/yelpcamp-refactor-ui (currently unavailable, working to get account back online right now! sorry for the inconvenience)
+- UI Improvements (login and signup, nav-bar, registration flash message) - http://slides.com/nax3t/yelpcamp-refactor-ui (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
 - Pricing feature - http://slides.com/nax3t/yelpcamp-refactor-pricing (currently unavailable, working to get account back online right now! sorry for the inconvenience)
 
