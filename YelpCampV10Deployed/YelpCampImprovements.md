@@ -45,7 +45,7 @@ Pagination in campgrounds index
 
 - Pricing feature - http://slides.com/nax3t/yelpcamp-refactor-pricing (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
-UPDATED!!! - Google Maps location - https://www.youtube.com/watch?v=B4OuCjQLJ9k (36m)
+UPDATED!!! - Google Maps location - https://www.youtube.com/watch?v=B4OuCjQLJ9k (36m) --DONE
 
 - Time since created w/ Moment JS - http://slides.com/nax3t/yelpcamp-refactor-moment (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
