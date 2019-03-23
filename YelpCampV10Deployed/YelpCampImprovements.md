@@ -49,9 +49,9 @@ UPDATED!!! - Google Maps location - https://www.youtube.com/watch?v=B4OuCjQLJ9k 
 
 - Time since created w/ Moment JS - http://slides.com/nax3t/yelpcamp-refactor-moment (currently unavailable, working to get account back online right now! sorry for the inconvenience) --DONE
 
-- Admin role (user roles) - https://www.youtube.com/watch?v=somc45pnM2k (30m)
+- Admin role (user roles) - https://www.youtube.com/watch?v=somc45pnM2k (30m) --DONE
 
-- User profile - https://youtu.be/6ar77jZ_ajc (18m)
+- User profile - https://youtu.be/6ar77jZ_ajc (18m) --DONE
 
 - Password reset - https://youtu.be/UV9FvlTySGg (23m)
 
