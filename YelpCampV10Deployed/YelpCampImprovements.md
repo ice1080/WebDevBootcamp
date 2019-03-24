@@ -53,11 +53,11 @@ UPDATED!!! - Google Maps location - https://www.youtube.com/watch?v=B4OuCjQLJ9k 
 
 - User profile - https://youtu.be/6ar77jZ_ajc (18m) --DONE
 
-- Password reset - https://youtu.be/UV9FvlTySGg (23m)
+- Password reset - https://youtu.be/UV9FvlTySGg (23m) --DONE
 
-- Fuzzy Search - https://youtu.be/9_lKMTXVk64 (25m)
+- Fuzzy Search - https://youtu.be/9_lKMTXVk64 (25m) --DONE
 
-- Image upload - https://youtu.be/RHd4rP9U9SA (21m)
+- Image upload - https://youtu.be/RHd4rP9U9SA (21m) and https://www.youtube.com/watch?v=U0GSOkbHW5o (37m) --DONE
 
 - Migrating to Bootstrap 4 - https://www.youtube.com/watch?v=NHHh0sj1uKY (1h 12m)
 

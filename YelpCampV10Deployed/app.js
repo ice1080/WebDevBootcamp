@@ -7,7 +7,8 @@ var express        = require("express"),
     LocalStrategry = require('passport-local'),
     methodOverride = require('method-override'),
     User           = require('./models/user'),
-    seedDb         = require('./seeds');
+    seedDb         = require('./seeds')
+    dotenv         = require('dotenv').config();
 
 var commentRoutes     = require('./routes/comments'),
     campgroundRoutes  = require('./routes/campgrounds'),
