@@ -61,7 +61,7 @@ UPDATED!!! - Google Maps location - https://www.youtube.com/watch?v=B4OuCjQLJ9k 
 
 - Migrating to Bootstrap 4 - https://www.youtube.com/watch?v=NHHh0sj1uKY (1h 12m)
 
-- Refactor callbacks in seeds.js to use Async/Await - https://youtu.be/D_q-sQCdZXw (15m)
+- Refactor callbacks in seeds.js to use Async/Await - https://youtu.be/D_q-sQCdZXw (15m) --DONE
 
 NEW!!! - In-app Notifications - https://www.youtube.com/watch?v=Tt9orKnUiEU (16m)
 
